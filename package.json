@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/death667b/ReactJSAuthOTest/issues"
   },
-  "homepage": "https://github.com/death667b/ReactJSAuthOTest#readme"
+  "homepage": "https://github.com/death667b/ReactJSAuthOTest#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  }
 }
