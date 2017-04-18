@@ -1,0 +1,24 @@
+{
+  "name": "reactjsauthotest",
+  "version": "1.0.0",
+  "description": "Learn how to use AuthO and ReactJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/death667b/ReactJSAuthOTest.git"
+  },
+  "keywords": [
+    "AuthO",
+    "Testing",
+    "ReactJS"
+  ],
+  "author": "Ian Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/death667b/ReactJSAuthOTest/issues"
+  },
+  "homepage": "https://github.com/death667b/ReactJSAuthOTest#readme"
+}
